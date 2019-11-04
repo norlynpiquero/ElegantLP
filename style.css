@@ -40,7 +40,7 @@ body {
   }
 
   section#entertainment {
-    background: url(../img/section-bg.jpg) no-repeat bottom/cover;
+    background: url(section-bg.jpg) no-repeat bottom/cover;
     padding: 10rem 0;
   }
 
